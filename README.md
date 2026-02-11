@@ -1,7 +1,19 @@
-## Hi there, My name is Joonha! 👋
+## 안녕하세요! 👋
 
-**Full Stack Developer**를 꿈꾸는 개발자입니다.  
+**Full Stack Developer**를 꿈꾸는 개발자, 김준하입니다.  
 새로운 기술을 배우고 적용하는 것을 좋아하며, **Spring Boot**와 **React** 생태계에 관심이 많습니다.
+
+## 👋 はじめまして、Joonhaです！
+
+**フルスタックエンジニア**を目指している開発者です。  
+新しい技術を学ぶこと、そして**Spring Boot**と**React**のエコシステムを活用した開発に強い関心を持っています。  
+現在、日本での就職を目指して準備中です。
+
+## 👋 Hi there, I'm Joonha!
+
+I am an aspiring **Full Stack Developer**.  
+I am passionate about learning new technologies and specialize in the **Spring Boot** and **React** ecosystems.  
+I am currently looking for opportunities to work in Japan.
 
 <br>
 
@@ -15,6 +27,12 @@
 
 ### Tools & Others
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=files&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
+
+### Language Usage
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junha2020)](https://github.com/anuraghazra/github-readme-stats)
+
+### My GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junha2020)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -50,26 +68,12 @@
 * 📧 Email: junha2020@naver.com
 * 🐙 GitHub: [@junha2020](https://github.com/junha2020)
 
+## Language Usage
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junha2020)](https://github.com/anuraghazra/github-readme-stats)
+
 ***
 
-# 👋 はじめまして、Joonhaです！
 
-**フルスタックエンジニア**を目指している開発者です。  
-新しい技術を学ぶこと、そして**Spring Boot**と**React**のエコシステムを活用した開発に強い関心を持っています。  
-現在、日本での就職を目指して準備中です。
-
-<br>
-
-## 🛠️ Tech Stack
-
-### Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
-
-### Backend
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-
-### Tools & Others
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=files&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
 
 <br>
 
@@ -107,24 +111,7 @@
 
 ***
 
-# 👋 Hi there, I'm Joonha!
 
-I am an aspiring **Full Stack Developer**.  
-I am passionate about learning new technologies and specialize in the **Spring Boot** and **React** ecosystems.  
-I am currently looking for opportunities to work in Japan.
-
-<br>
-
-## 🛠️ Tech Stack
-
-### Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
-
-### Backend
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-
-### Tools & Others
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=files&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
 
 <br>
 
