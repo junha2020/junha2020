@@ -28,12 +28,6 @@ I am currently looking for opportunities to work in Japan.
 ### Tools & Others
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logo=files&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=OpenAI&logoColor=white">
 
-### Language Usage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junha2020)](https://github.com/anuraghazra/github-readme-stats)
-
-### My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junha2020)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 ## 🚀 Featured Projects
