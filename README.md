@@ -84,7 +84,7 @@
     * 📅 旅行スケジュールの作成および管理 (CRUD)
     * 📍 Kakao/Google Maps APIと連携した場所追加機能
 * [👉 Repository](https://github.com/junha2020/travel_app)
-* [👉 Repository 바로가기](https://github.com/junha2020/travel_app_front)
+* [👉 Repository](https://github.com/junha2020/travel_app_front)
 
 <br>
 
@@ -139,7 +139,7 @@ I am currently looking for opportunities to work in Japan.
     * 📅 Create and manage travel schedules (CRUD)
     * 📍 Location management integrated with Kakao/Google Maps API
 * [👉 Repository](https://github.com/junha2020/travel_app)
-* [👉 Repository 바로가기](https://github.com/junha2020/travel_app_front)
+* [👉 Repository](https://github.com/junha2020/travel_app_front)
 
 <br>
 
